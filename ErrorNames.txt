@@ -1,0 +1,52 @@
+//Error 1:  Command Line is not open
+//Error 2:  Command Line is not close 
+//Error 3:  More than two consecutive operator is detected.
+//Error 4:  The known operators are : ++, -- ,+,-,*,/,:=. The operand is not known by the Ceng Analyzer! --->
+//Error 5:  A variable size cannot exceed twenty
+//Error 6:  The number of digits that a number can have must be less than ten.
+//Error 7:  Unknown character detected.
+//Error 8:  String can not be null.
+//Error 9:  Command Line is not finished.
+//Error 10: Operand := expected.
+//Error 11: Brackets are not correctly open or close.
+//Error 12: The code can not start with endofline
+//Error 13: The code must bu end with an end of line chracter (;).
+//Error 14: The variable can use together with only three operator: := , ++ ,-- "
+//Error 15: The operator must use with variable.
+//Error 16: The operator must use with variable and variable must be Integer. 
+//Error 17: The code can be start with an two operator: ++ , --.
+//Error 18: Expression is not correctly design.
+//Error 19: Expression include mismatch data type(s).
+//Error 20: Unknown (or Object) data types can not be used in expression.
+//Error 21: Variable declareted before int , it can not be redefined differant data type.
+//Error 22: Special data types(long , char ... ) use with a variable name.
+//Error 23: Special data types(long , char ... ) must be end with an endofline (;)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
