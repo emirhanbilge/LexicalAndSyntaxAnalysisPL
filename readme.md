@@ -1,5 +1,5 @@
-#Programming Languages Project 1: Lexical Analyzer for Ceng++
-##Lexical rules for the programming language Ceng++ are as follows:
+# Programming Languages Project 1: Lexical Analyzer for Ceng++
+## Lexical rules for the programming language Ceng++ are as follows:
 
 1- Identifiers:
  Maximum identifier size is 20 characters. If you use an identifier 
